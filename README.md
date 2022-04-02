@@ -1,2 +1,3 @@
 # Trapaya
-Provides Weather information (clear sky , light rain .. etc) and weather information throughout the day and for the next seven days , can change units of temperature and wind speed, can choose favorite locations using map or autocomplete places and display all the weather information and can add weather alert to warning about the weather, language (Arabic - English 
+Tripaya helps you to record your planned trips with the start and end Geo-points, accompanied with the date and time of the trip and notes.The application also reminds you with his trips on the time specified by you. In addition,the application navigates you to your destination. After that, the application keeps track with the upcoming and past trips
+
