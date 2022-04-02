@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string name="title_activity_main_home">Main_Home</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="Hint_TripName">TripName</string>
+    <string name="Hint_StartPoint">StartPoint</string>
+    <string name="logoRegister">Register</string>
+    <string name="ed_register_username" />
+    <string name="ed_register_email" />
+    <string name="ed_register_password" />
+    <string name="btn_register">Register</string>
+    <string name="tv_register_haveaccount">Already Have an Account</string>
+    <string name="ed_register_confirmpass" />
+    <string name="tv_login_logo">Log in</string>
+    <string name="tv_login_forgetpass">Forgot Password?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_loginGoogle">Sign in with Google</string>
+    <string name="log_out">logout</string>
+    <string name="history">history</string>
+    <string name="syn">syn</string>
+    <string name="e_mail">email</string>
+    <string name="phonenumber">username</string>
+    <string name="channel_name">channelname</string>
+    <string name="channel_description">channeldes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Hint_EndPoint">EndPoint</string>
+    <string name="AddNotes">ADDNOTE</string>
+    <string name="SingleTrip">Single Trip</string>
+    <string name="RoundTrip">Round Trip</string>
+    <string name="EndPoint">End Point</string>
+    <string name="StartPoint">Start Point</string>
+    <string name="ChooseDate">Date</string>
+    <string name="TripName">Trip Name</string>
+    <string name="ChooseTime">Time</string>
+    <string name="Add">Add</string>
+    <string name="api">AIzaSyBpK-AM55wLemXfm-ffY9IpHA3MkF5vd0M</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tv_addtrip" />
+    <string name="tv_timetrip" />
+    <string name="btn_addtrip_update">Update</string>
+    <string name="btn_addtrip_cancel">Cancel</string>
+
+
+    <string name="SaveNotes">SaveNotes</string>
+    <string name="tv_date_hisrory">tv_date_histroy</string>
+    <string name="tv_nametrip_histroy">tv_nametrip_histroy</string>
+    <string name="tv_startpoint_histroy">tv_startpoint_histroy</string>
+    <string name="tv_endpointTrip_history">tv_endpointTrip_history</string>
+    <string name="tv_time_histroy">tv_time_histroy</string>
+    <string name="tv_status_histroy">tv_status_histroy</string>
+    <string name="textNotes">Notes</string>
+    <string name="checkBox1">checkBox</string>
+    <string name="checkBox2">CheckBox</string>
+    <string name="checkBox5">ChecBox</string>
+    <string name="checkBox4">CheckBox</string>
+    <string name="checkBox10">CheckBox</string>
+    <string name="checkBox9">CheckBox</string>
+    <string name="checkBox8">CheckBox</string>
+    <string name="checkBox3">CheckBox</string>
+    <string name="checkBox6">CheckBox</string>
+    <string name="checkBox7">CheckBox</string>
+
+
+</resources>

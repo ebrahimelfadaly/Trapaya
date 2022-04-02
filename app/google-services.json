@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741316623280",
+    "firebase_url": "https://tripreminder-89e90-default-rtdb.firebaseio.com",
+    "project_id": "tripreminder-89e90",
+    "storage_bucket": "tripreminder-89e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741316623280:android:997ac850d3c4250340b475",
+        "android_client_info": {
+          "package_name": "com.example.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741316623280-8bkav4ctl5utqm2kkjmovlr34e9vf5g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFDh43vRq9q6aAak-uzlpTzcMEIDG1ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741316623280-8bkav4ctl5utqm2kkjmovlr34e9vf5g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
